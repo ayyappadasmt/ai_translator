@@ -1,0 +1,17 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+transformers
+torch
+torchvision
+torchaudio
+sentencepiece
+sacremoses
+protobuf
+pydantic
+requests
+numpy
+pandas
+accelerate
+tokenizers
